@@ -1,0 +1,301 @@
+date;user;date_scraped;company_name;series;raised_funds;investors;date
+14/05/2019 23:47;techcrunch;2019-05-14T23:45:41;Rubio;series d;100000000.0 $;{'The Wall Street Journal', 'Global Founders Capital', 'Wellington Management', 'Lone Pine Capital', 'Baillie Gifford'};14/05/2019 23:47
+14/05/2019 22:49;techcrunch;2019-05-14T22:48:29;CrowdStrike;public;;{'Uber'};14/05/2019 22:49
+14/05/2019 22:01;techcrunch;2019-05-14T22:01:10;Peskin;public;;;14/05/2019 22:01
+14/05/2019 22:01;techcrunch;2019-05-14T22:00:24;FAA;series o;;;14/05/2019 22:01
+14/05/2019 21:26;techcrunch;2019-05-14T21:24:57;The New York Times;;;;14/05/2019 21:26
+14/05/2019 20:35;techcrunch;;;;;;14/05/2019 20:35
+14/05/2019 20:32;techcrunch;2019-05-14T20:30:17;Startup Battlefield;;;;14/05/2019 20:32
+14/05/2019 20:17;techcrunch;2019-05-14T20:16:13;Innowatts;;;;14/05/2019 20:17
+14/05/2019 20:03;techcrunch;2019-05-14T20:02:12;New Relic;;;;14/05/2019 20:03
+14/05/2019 20:00;techcrunch;;;;;;14/05/2019 20:00
+14/05/2019 19:56;techcrunch;;;;;;14/05/2019 19:56
+14/05/2019 19:35;techcrunch;2019-05-14T19:34:20;Uber;ipo;;{'NYSE'};14/05/2019 19:35
+14/05/2019 18:53;techcrunch;2019-05-14T18:51:58;Beat Games;;;;14/05/2019 18:53
+14/05/2019 18:50;techcrunch;;;;;;14/05/2019 18:50
+14/05/2019 18:31;techcrunch;;;;;;14/05/2019 18:31
+14/05/2019 18:25;techcrunch;2019-05-14T18:24:29;TomboyX;series b;18000000.0 $;{'TomboyX'};14/05/2019 18:25
+14/05/2019 18:05;techcrunch;2019-05-14T17:05:01;Yext;public;;{'Lerman'};14/05/2019 18:05
+14/05/2019 17:52;techcrunch;2019-05-14T17:51:26;Moon;;;;14/05/2019 17:52
+14/05/2019 17:43;techcrunch;2019-05-14T17:43:16;Musk;public;;{'SpaceX', 'Elon Musk'};14/05/2019 17:43
+14/05/2019 17:39;techcrunch;;;;;;14/05/2019 17:39
+14/05/2019 17:36;techcrunch;2019-05-14T17:36:25;Group of 7;;;;14/05/2019 17:36
+14/05/2019 17:19;techcrunch;;;;;;14/05/2019 17:19
+14/05/2019 17:05;techcrunch;2019-05-14T16:05:54;Phil Weiner;;;;14/05/2019 17:05
+14/05/2019 17:04;techcrunch;;;;;;14/05/2019 17:04
+14/05/2019 17:04;techcrunch;2019-05-14T17:00:56;TechCrunch Sessions is heading to San Jose;;;;14/05/2019 17:04
+14/05/2019 17:01;techcrunch;2019-05-14T16:59:43;Labs;;;;14/05/2019 17:01
+14/05/2019 17:00;techcrunch;;;;;;14/05/2019 17:00
+14/05/2019 16:36;techcrunch;2019-05-14T16:36:01;Google;;;;14/05/2019 16:36
+14/05/2019 16:35;techcrunch;;;;;;14/05/2019 16:35
+14/05/2019 16:33;techcrunch;;;;;;14/05/2019 16:33
+14/05/2019 16:24;techcrunch;2019-05-14T13:39:16;Hulu;;;;14/05/2019 16:24
+14/05/2019 16:24;techcrunch;2019-05-14T16:22:48;Apple;public;750000000.0 $;{'Beyond Meat'};14/05/2019 16:24
+14/05/2019 16:22;techcrunch;2019-05-14T16:20:52;Tyson Foods;;;;14/05/2019 16:22
+14/05/2019 16:08;techcrunch;;;;;;14/05/2019 16:08
+14/05/2019 16:02;techcrunch;2019-05-14T16:00:56;Samsung;;;;14/05/2019 16:02
+14/05/2019 16:01;techcrunch;2019-05-14T16:00:23;OnePlus’;;;;14/05/2019 16:01
+14/05/2019 16:01;techcrunch;2019-05-14T16:00:23;Glaser;;;;14/05/2019 16:01
+14/05/2019 15:56;techcrunch;;;;;;14/05/2019 15:56
+14/05/2019 15:01;techcrunch;;;;;;14/05/2019 15:01
+14/05/2019 14:43;techcrunch;2019-05-14T14:42:17;Match;;;;14/05/2019 14:43
+14/05/2019 14:38;techcrunch;2019-05-14T14:01:51;USDC;public;;;14/05/2019 14:38
+14/05/2019 14:02;techcrunch;2019-05-14T14:01:21;BTC;public;;{'Travis Scher', 'Digital Currency Group', 'the Digital Currency Group'};14/05/2019 14:02
+14/05/2019 14:00;techcrunch;2019-05-14T13:59:12;Rivet;public;;{'Google Play', 'the Apple App Store'};14/05/2019 14:00
+14/05/2019 13:56;techcrunch;2019-05-14T13:53:33;WeChat;;;;14/05/2019 13:56
+14/05/2019 13:31;techcrunch;;;;;;14/05/2019 13:31
+14/05/2019 13:04;techcrunch;2019-05-14T13:01:53;Amazon;;;;14/05/2019 13:04
+14/05/2019 13:03;techcrunch;2019-05-14T13:00:47;Hailo;series a;12500000.0 $;{'Hailo-8'};14/05/2019 13:03
+14/05/2019 13:02;techcrunch;2019-05-14T13:00:51;Adobe;;;;14/05/2019 13:02
+14/05/2019 13:02;techcrunch;;;;;;14/05/2019 13:02
+14/05/2019 13:01;techcrunch;2019-05-14T13:00:08;Google;;;;14/05/2019 13:01
+14/05/2019 13:01;techcrunch;2019-05-14T13:00:05;Apple;series n;;{'von Furstenberg', 'Yap'};14/05/2019 13:01
+14/05/2019 13:00;techcrunch;;;;;;14/05/2019 13:00
+14/05/2019 13:00;techcrunch;2019-05-14T12:58:43;LinkedIn;;;;14/05/2019 13:00
+14/05/2019 12:24;techcrunch;2019-05-14T12:23:19;Google;;;;14/05/2019 12:24
+14/05/2019 11:30;techcrunch;;;;;;14/05/2019 11:30
+14/05/2019 11:27;techcrunch;2019-05-14T11:26:18;InnoVen;series a;;{'Sharma', 'TechCrunch', 'Series A'};14/05/2019 11:27
+14/05/2019 11:01;techcrunch;;;;;;14/05/2019 11:01
+14/05/2019 10:22;techcrunch;;;;;;14/05/2019 10:22
+14/05/2019 10:02;techcrunch;2019-05-14T10:00:20;Amazon;;;;14/05/2019 10:02
+14/05/2019 09:56;techcrunch;2019-05-14T09:55:13;Paytm;;;;14/05/2019 09:56
+14/05/2019 09:36;techcrunch;;;;;;14/05/2019 09:36
+14/05/2019 09:14;techcrunch;;;;;;14/05/2019 09:14
+14/05/2019 09:02;techcrunch;;;;;;14/05/2019 09:02
+14/05/2019 08:42;techcrunch;2019-05-14T08:41:10;Kapur;seed;;{'Golden Gate Ventures’', 'Jungle Ventures'};14/05/2019 08:42
+14/05/2019 08:01;techcrunch;2019-05-14T08:00:29;Aurélie;public;;{'Renaud', 'NYSE', 'Ashoka'};14/05/2019 08:01
+14/05/2019 08:01;techcrunch;;;;;;14/05/2019 08:01
+14/05/2019 05:45;techcrunch;2019-05-14T05:43:59;Uber;ipo;;{'SoftBank Group', 'Vision Fund'};14/05/2019 05:45
+14/05/2019 04:04;techcrunch;;;;;;14/05/2019 04:04
+14/05/2019 04:02;techcrunch;;;;;;14/05/2019 04:02
+14/05/2019 02:00;techcrunch;;;;;;14/05/2019 02:00
+14/05/2019 00:59;techcrunch;;;;;;14/05/2019 00:59
+14/05/2019 00:02;techcrunch;;;;;;14/05/2019 00:02
+12/05/2019 23:29;techcrunch;;;;;;12/05/2019 23:29
+12/05/2019 23:01;techcrunch;2019-05-12T23:00:57;Ethereal;series o;;{'ConsenSys'};12/05/2019 23:01
+12/05/2019 22:44;techcrunch;2019-05-12T22:43:14;NOAA;;;;12/05/2019 22:44
+12/05/2019 21:39;techcrunch;;;;;;12/05/2019 21:39
+12/05/2019 20:48;techcrunch;2019-05-12T20:46:44;THC;;;;12/05/2019 20:48
+12/05/2019 17:36;techcrunch;;;;;;12/05/2019 17:36
+12/05/2019 12:02;techcrunch;2019-05-12T12:00:19;Google;;;;12/05/2019 12:02
+12/05/2019 10:27;techcrunch;;;;;;12/05/2019 10:27
+12/05/2019 02:26;techcrunch;;;;;;12/05/2019 02:26
+10/05/2019 22:03;techcrunch;2019-05-10T22:02:33;Uber;ipo;;;10/05/2019 22:03
+10/05/2019 22:00;techcrunch;2019-05-05T20:09:54;Konexio;;;;10/05/2019 22:00
+10/05/2019 21:43;techcrunch;2019-05-10T21:42:26;Virgin Galactic;;;;10/05/2019 21:43
+10/05/2019 20:53;techcrunch;2019-05-10T20:52:22;Musk;public;;{'District Court', 'Vernon Unsworth'};10/05/2019 20:53
+10/05/2019 20:31;techcrunch;;;;;;10/05/2019 20:31
+10/05/2019 20:15;techcrunch;2019-05-10T20:14:46;Uber;public;;{'Uber', 'the New York Stock Exchange'};10/05/2019 20:15
+10/05/2019 20:07;techcrunch;2019-05-10T20:06:06;Tinder Lite;;;;10/05/2019 20:07
+10/05/2019 19:02;techcrunch;2019-05-10T18:06:06;Jeff Bezos;;;;10/05/2019 19:02
+10/05/2019 18:54;techcrunch;2019-05-10T18:52:39;Uber;public;;{'the New York Stock Exchange'};10/05/2019 18:54
+10/05/2019 17:55;techcrunch;;;;;;10/05/2019 17:55
+10/05/2019 17:51;techcrunch;2019-05-10T17:49:37;Bobbie;;;;10/05/2019 17:51
+10/05/2019 17:25;techcrunch;2019-05-10T17:23:47;Apple;public;8100000000.0 $;{'the New York Stock Exchange'};10/05/2019 17:25
+10/05/2019 17:10;techcrunch;2019-05-10T16:05:55;HAI;series o;;;10/05/2019 17:10
+10/05/2019 16:47;techcrunch;2019-05-10T16:45:50;Uber;public;;;10/05/2019 16:47
+10/05/2019 16:09;techcrunch;2019-05-10T16:07:32;fuboTV;;;;10/05/2019 16:09
+10/05/2019 15:54;techcrunch;2019-05-10T15:52:55;Uber;public;8100000000.0 $;{'the New York Stock Exchange'};10/05/2019 15:54
+10/05/2019 15:19;techcrunch;2019-05-10T15:17:36;Blue Origin;public;;{'Matt Burns', 'Jeff Bezos', 'TechCrunch'};10/05/2019 15:19
+10/05/2019 15:09;techcrunch;2019-05-10T15:07:54;Amazon;;;;10/05/2019 15:09
+10/05/2019 14:34;techcrunch;;;;;;10/05/2019 14:34
+10/05/2019 14:19;techcrunch;2019-05-10T14:18:06;HMRC;public;;{'ICO', 'Steve Wood'};10/05/2019 14:19
+10/05/2019 14:07;techcrunch;2019-05-10T14:06:06;Google;public;;{'CCI'};10/05/2019 14:07
+10/05/2019 13:06;techcrunch;2019-05-10T13:05:50;Cook;;;;10/05/2019 13:06
+10/05/2019 12:45;techcrunch;;Extra Crunch;public;;;10/05/2019 12:45
+10/05/2019 12:01;techcrunch;2019-05-10T12:00:40;Uber;public;;{'Lyft'};10/05/2019 12:01
+10/05/2019 11:51;techcrunch;;;;;;10/05/2019 11:51
+10/05/2019 10:10;techcrunch;2019-05-10T10:09:24;Binance;;;;10/05/2019 10:10
+10/05/2019 10:09;techcrunch;;;;;;10/05/2019 10:09
+10/05/2019 10:01;techcrunch;2019-05-10T10:00:45;Daye;seed;;{'Kindred Capital', 'Tim Westergren', 'Index Ventures', 'Khosla', 'Kristina Simmons', 'Khosla Ventures', 'Hannah Seal', 'Pandora'};10/05/2019 10:01
+10/05/2019 09:19;techcrunch;2019-05-10T09:18:11;King;public;;;10/05/2019 09:19
+10/05/2019 05:16;techcrunch;2019-05-10T04:33:45;Sung;series b;10000000.0 $;{'Thai Express', 'Ozi Amanat', 'Singha Ventures', 'Openspace Ventures', 'Uber', 'Impossible Foods', 'K2 Global', 'FoodXervices', 'Genesis Alternative Ventures', 'Cento Ventures', 'Raging Bull', 'Majuven', 'Sass Corp', 'Ivan Lee'};10/05/2019 05:16
+10/05/2019 01:00;techcrunch;;;;;;10/05/2019 01:00
+10/05/2019 00:40;techcrunch;2019-05-10T00:39:17;Chelsea;;;;10/05/2019 00:40
+08/05/2019 23:41;techcrunch;2019-05-08T23:39:28;Google;;;;08/05/2019 23:41
+08/05/2019 23:04;techcrunch;2019-05-08T23:03:38;Uber;ipo;20000000.0 $;{'Meituan-Dianping'};08/05/2019 23:04
+08/05/2019 23:00;techcrunch;2019-05-08T22:58:41;Google;;;;08/05/2019 23:00
+08/05/2019 22:52;techcrunch;2019-05-08T22:51:11;Workhorse;;;;08/05/2019 22:52
+08/05/2019 22:38;techcrunch;2019-05-08T22:37:11;YOLO;public;;{'Gregoire Henrion', 'Mindie', 'Yolo'};08/05/2019 22:38
+08/05/2019 21:25;techcrunch;;;;;;08/05/2019 21:25
+08/05/2019 21:04;techcrunch;;;;;;08/05/2019 21:04
+08/05/2019 20:37;techcrunch;2019-05-08T20:35:07;Accel;public;;{'Spotify'};08/05/2019 20:37
+08/05/2019 20:20;techcrunch;2019-05-08T20:19:37;Joseph Fink;;;;08/05/2019 20:20
+08/05/2019 20:10;techcrunch;2019-05-08T20:08:30;HBO;series w;;;08/05/2019 20:10
+08/05/2019 20:01;techcrunch;;;;;;08/05/2019 20:01
+08/05/2019 19:58;techcrunch;2019-05-08T19:57:05;Google;public;;{'Google Play Console'};08/05/2019 19:58
+08/05/2019 19:57;techcrunch;2019-05-08T19:05:57;Uber;ipo;;{'TechCrunch', 'Uber', 'Mostafa Maklad'};08/05/2019 19:57
+08/05/2019 19:07;techcrunch;2019-05-08T19:05:57;Uber;ipo;;{'TechCrunch', 'Uber', 'Mostafa Maklad'};08/05/2019 19:07
+08/05/2019 18:49;techcrunch;2019-05-08T18:48:00;CTA;;;;08/05/2019 18:49
+08/05/2019 18:17;techcrunch;2019-05-08T18:16:13;Google;public;;{'Sumo Logic', 'Ramin Sayar'};08/05/2019 18:17
+08/05/2019 17:22;techcrunch;2019-05-08T17:21:08;Facebook;;;;08/05/2019 17:22
+08/05/2019 17:04;techcrunch;;;;;;08/05/2019 17:04
+08/05/2019 17:01;techcrunch;2019-05-08T17:00:06;UATAG;;;;08/05/2019 17:01
+08/05/2019 17:00;techcrunch;2019-05-08T16:00:58;Matt Hartman;;;;08/05/2019 17:00
+08/05/2019 16:57;techcrunch;;;;;;08/05/2019 16:57
+08/05/2019 16:15;techcrunch;;;;;;08/05/2019 16:15
+08/05/2019 16:01;techcrunch;2019-05-08T16:00:09;Waymo;;;;08/05/2019 16:01
+08/05/2019 15:15;techcrunch;2019-05-08T15:13:38;Pandora;;;;08/05/2019 15:15
+08/05/2019 15:02;techcrunch;2019-05-08T15:00:42;RTR;;;;08/05/2019 15:02
+08/05/2019 14:44;techcrunch;;Extra Crunch;public;;;08/05/2019 14:44
+08/05/2019 14:34;techcrunch;2019-05-08T14:32:29;Amazon;;;;08/05/2019 14:34
+08/05/2019 14:17;techcrunch;;;;;;08/05/2019 14:17
+08/05/2019 14:11;techcrunch;;;;;;08/05/2019 14:11
+08/05/2019 14:01;techcrunch;2019-05-08T14:00:10;Docker;public;;{'Cloudera', 'Singh'};08/05/2019 14:01
+08/05/2019 13:24;techcrunch;2019-05-08T13:22:39;Tariffs;;;;08/05/2019 13:24
+08/05/2019 13:09;techcrunch;;;;;;08/05/2019 13:09
+08/05/2019 13:04;techcrunch;;;;;;08/05/2019 13:04
+08/05/2019 13:02;techcrunch;2019-05-08T13:00:24;Bird;;;;08/05/2019 13:02
+08/05/2019 13:00;techcrunch;;;;;;08/05/2019 13:00
+08/05/2019 12:23;techcrunch;2019-05-08T12:22:35;Kargo;seed;;;08/05/2019 12:23
+08/05/2019 12:01;techcrunch;2019-05-08T12:00:34;Iguazio;series d;;{'Jupyter', 'KubeFlow'};08/05/2019 12:01
+08/05/2019 09:49;techcrunch;2019-05-08T09:48:16;PUBG;public;;{'Weibo', 'State Administration of Press and Publication'};08/05/2019 09:49
+08/05/2019 08:01;techcrunch;2019-05-08T08:00:53;HeyJobs;series a;12000000.0 $;set();08/05/2019 08:01
+08/05/2019 05:14;techcrunch;;;;;;08/05/2019 05:14
+08/05/2019 03:47;techcrunch;2019-05-08T03:46:25;CollegeDekho;series b;8000000.0 $;set();08/05/2019 03:47
+08/05/2019 01:13;techcrunch;;;;;;08/05/2019 01:13
+08/05/2019 00:49;techcrunch;;;;;;08/05/2019 00:49
+06/05/2019 17:01;techcrunch;;;;;;06/05/2019 17:01
+06/05/2019 16:51;techcrunch;2019-05-06T16:50:36;Apple;public;;;06/05/2019 16:51
+06/05/2019 16:44;techcrunch;;;;;;06/05/2019 16:44
+06/05/2019 15:41;techcrunch;2019-05-06T15:39:42;ElectionGuard;public;;set();06/05/2019 15:41
+06/05/2019 15:35;techcrunch;;;;;;06/05/2019 15:35
+06/05/2019 15:35;techcrunch;;;;;;06/05/2019 15:35
+06/05/2019 15:34;techcrunch;2019-05-06T15:30:54;Microsoft;;;;06/05/2019 15:34
+06/05/2019 15:34;techcrunch;;;;;;06/05/2019 15:34
+06/05/2019 15:33;techcrunch;;;;;;06/05/2019 15:33
+06/05/2019 15:33;techcrunch;2019-05-06T15:30:22;Microsoft;public;;{'Azure Functions', 'Azure Kubernetes Service', 'Red Hat', 'OpenShift'};06/05/2019 15:33
+06/05/2019 15:33;techcrunch;;;;;;06/05/2019 15:33
+06/05/2019 15:32;techcrunch;2019-05-06T15:30:02;Microsoft;;;;06/05/2019 15:32
+06/05/2019 15:32;techcrunch;;;;;;06/05/2019 15:32
+06/05/2019 15:31;techcrunch;;;;;;06/05/2019 15:31
+06/05/2019 15:31;techcrunch;2019-05-06T15:30:27;Microsoft;;;;06/05/2019 15:31
+06/05/2019 15:31;techcrunch;2019-05-06T15:30:14;Microsoft;;;;06/05/2019 15:31
+06/05/2019 15:30;techcrunch;;;;;;06/05/2019 15:30
+06/05/2019 15:16;techcrunch;2019-05-06T14:30:18;Microsoft;;;;06/05/2019 15:16
+06/05/2019 15:02;techcrunch;2019-05-06T15:00:30;Carta;series e;300000000.0 $;{'Andreessen Horowitz', 'TechCrunch', 'Marc Andreessen'};06/05/2019 15:02
+06/05/2019 14:31;techcrunch;2019-05-06T14:30:18;Microsoft;;;;06/05/2019 14:31
+06/05/2019 14:00;techcrunch;;;;;;06/05/2019 14:00
+06/05/2019 13:01;techcrunch;2019-05-06T13:00:02;Dropbox;;;;06/05/2019 13:01
+06/05/2019 12:44;techcrunch;;Extra Crunch;public;;;06/05/2019 12:44
+06/05/2019 11:59;techcrunch;2019-05-06T11:57:07;BigBasket;series f;1000000000.0 $;{'CDC Group', 'TechCrunch', 'Alibaba', 'Vipul Parekh', 'Mirae Asset-Naver Asia Growth Fund'};06/05/2019 11:59
+06/05/2019 11:01;techcrunch;;;;;;06/05/2019 11:01
+06/05/2019 10:02;techcrunch;2019-05-06T10:00:28;NBCUniversal;;;;06/05/2019 10:02
+06/05/2019 08:28;techcrunch;;;;;;06/05/2019 08:28
+06/05/2019 08:01;techcrunch;2019-05-06T08:00:33;Startup Alley;series a;;set();06/05/2019 08:01
+06/05/2019 07:34;techcrunch;2019-05-06T07:32:33;Apple;series o;;{'Android', 'Facebook', 'Google'};06/05/2019 07:34
+06/05/2019 04:13;techcrunch;;;;;;06/05/2019 04:13
+06/05/2019 02:05;techcrunch;;;;;;06/05/2019 02:05
+06/05/2019 00:44;techcrunch;;Extra Crunch;public;;;06/05/2019 00:44
+04/05/2019 16:47;techcrunch;;;;;;04/05/2019 16:47
+04/05/2019 16:25;techcrunch;;;;;;04/05/2019 16:25
+04/05/2019 16:02;techcrunch;2019-05-04T16:00:39;Apple;;;;04/05/2019 16:02
+04/05/2019 14:08;techcrunch;;;;;;04/05/2019 14:08
+04/05/2019 12:17;techcrunch;2019-05-04T12:16:46;Jones;;;;04/05/2019 12:17
+04/05/2019 12:02;techcrunch;2019-05-04T12:00:48;TechCrunch;public;;{'SEC', 'Danny Crichton', 'The We Company'};04/05/2019 12:02
+04/05/2019 11:00;techcrunch;2019-05-04T10:58:56;Uber;;;;04/05/2019 11:00
+04/05/2019 07:01;techcrunch;2019-05-04T07:00:14;Android;;;;04/05/2019 07:01
+04/05/2019 04:29;techcrunch;2019-05-04T04:28:12;Srinivasan;;;;04/05/2019 04:29
+04/05/2019 03:54;techcrunch;2019-05-04T03:53:38;Mozilla;;;;04/05/2019 03:54
+02/05/2019 23:20;techcrunch;;;;;;02/05/2019 23:20
+02/05/2019 23:16;techcrunch;;;;;;02/05/2019 23:16
+02/05/2019 22:04;techcrunch;2019-05-02T22:02:38;Activision Blizzard;;;;02/05/2019 22:04
+02/05/2019 21:08;techcrunch;;;;;;02/05/2019 21:08
+02/05/2019 21:06;techcrunch;2019-05-02T21:05:57;Microsoft;;;;02/05/2019 21:06
+02/05/2019 21:04;techcrunch;2019-05-02T21:00:46;Microsoft;;;;02/05/2019 21:04
+02/05/2019 21:04;techcrunch;2019-05-02T21:00:43;Microsoft;;;;02/05/2019 21:04
+02/05/2019 21:04;techcrunch;2019-05-02T21:00:34;Microsoft;;;;02/05/2019 21:04
+02/05/2019 21:04;techcrunch;2019-05-02T21:00:34;Microsoft;public;;{'Azure DevOps', 'Visual Studio Code', 'Azure Blockchain Service'};02/05/2019 21:04
+02/05/2019 21:03;techcrunch;2019-05-02T21:00:21;Microsoft;;;;02/05/2019 21:03
+02/05/2019 21:02;techcrunch;2019-05-02T21:00:02;SQL;series d;;{'Database Edge'};02/05/2019 21:02
+02/05/2019 20:26;techcrunch;2019-05-02T20:23:56;Alexa;public;;{'Verge'};02/05/2019 20:26
+02/05/2019 20:23;techcrunch;2019-05-02T20:21:04;Tumblr;;;;02/05/2019 20:23
+02/05/2019 20:22;techcrunch;2019-05-02T20:21:01;Burke;;;;02/05/2019 20:22
+02/05/2019 20:00;techcrunch;2019-05-02T20:00:04;Google;public;;;02/05/2019 20:00
+02/05/2019 19:57;techcrunch;;;;;;02/05/2019 19:57
+02/05/2019 19:43;techcrunch;;Extra Crunch;public;;;02/05/2019 19:43
+02/05/2019 19:15;techcrunch;2019-05-02T18:17:39;Facebook;series o;;{'Frederic', 'Josh'};02/05/2019 19:15
+02/05/2019 18:52;techcrunch;2019-05-02T18:50:20;Facebook;;;;02/05/2019 18:52
+02/05/2019 18:51;techcrunch;;;;;;02/05/2019 18:51
+02/05/2019 18:13;techcrunch;;;;;;02/05/2019 18:13
+02/05/2019 17:25;techcrunch;2019-05-02T17:25:03;SpaceX;;;;02/05/2019 17:25
+02/05/2019 17:25;techcrunch;2019-05-02T17:23:57;Beyond Meat;public;;;02/05/2019 17:25
+02/05/2019 17:23;techcrunch;2019-05-02T16:05:19;EMEA;;;;02/05/2019 17:23
+02/05/2019 17:01;techcrunch;;;;;;02/05/2019 17:01
+02/05/2019 17:01;techcrunch;;;;;;02/05/2019 17:01
+02/05/2019 16:30;techcrunch;2019-05-02T16:29:26;Facebook;public;;;02/05/2019 16:30
+02/05/2019 16:00;techcrunch;;;;;;02/05/2019 16:00
+02/05/2019 15:01;techcrunch;2019-05-02T15:00:50;Uber;public;;set();02/05/2019 15:01
+02/05/2019 15:00;techcrunch;2019-05-02T14:58:59;Carnegie Mellon;;;;02/05/2019 15:00
+02/05/2019 14:32;techcrunch;2019-05-02T14:32:12;Google;;;;02/05/2019 14:32
+02/05/2019 14:31;techcrunch;2019-05-02T14:30:28;Invert Robotics;series o;;set();02/05/2019 14:31
+02/05/2019 14:26;techcrunch;2019-05-02T14:13:53;Match;;;;02/05/2019 14:26
+02/05/2019 14:25;techcrunch;;;;;;02/05/2019 14:25
+02/05/2019 14:00;techcrunch;;;;;;02/05/2019 14:00
+02/05/2019 13:01;techcrunch;2019-05-02T13:00:42;Mosaic;public;;{'Blue Apron', 'Munchery'};02/05/2019 13:01
+02/05/2019 12:35;techcrunch;2019-05-02T12:33:49;Human Rights Watch;;;;02/05/2019 12:35
+02/05/2019 12:06;techcrunch;;;;;;02/05/2019 12:06
+02/05/2019 12:02;techcrunch;;;;;;02/05/2019 12:02
+02/05/2019 11:59;techcrunch;2019-05-02T11:58:07;Tesla;;;;02/05/2019 11:59
+02/05/2019 11:54;techcrunch;2019-05-02T11:53:35;Quantcast;;;;02/05/2019 11:54
+02/05/2019 10:32;techcrunch;2019-05-02T10:30:32;Accomplice;;;;02/05/2019 10:32
+02/05/2019 09:59;techcrunch;2019-05-02T09:57:55;FreightHub;series b;30000000.0 $;{'Rider Global', 'Maersk Growth', 'A.P. Moller-Maersk'};02/05/2019 09:59
+02/05/2019 09:01;techcrunch;2019-05-02T09:00:48;TechCrunch;;;;02/05/2019 09:01
+02/05/2019 09:00;techcrunch;2019-05-02T09:00:11;Plum;;;;02/05/2019 09:00
+02/05/2019 08:46;techcrunch;2019-05-02T08:45:19;Jumia;public;200000000.0 $;set();02/05/2019 08:46
+02/05/2019 08:01;techcrunch;2019-05-02T08:00:53;Disrupt Berlin;;;;02/05/2019 08:01
+02/05/2019 05:51;techcrunch;2019-05-02T05:49:46;LG Mobile;;;;02/05/2019 05:51
+02/05/2019 04:02;techcrunch;2019-05-02T04:00:58;Acast;public;;{'Johan Billgren'};02/05/2019 04:02
+30/04/2019 23:32;techcrunch;;;;;;30/04/2019 23:32
+30/04/2019 23:08;techcrunch;;;;;;30/04/2019 23:08
+30/04/2019 23:00;techcrunch;2019-04-30T22:58:59;Rappi;;;;30/04/2019 23:00
+30/04/2019 22:47;techcrunch;2019-04-30T22:45:45;Wojcicki;public;;;30/04/2019 22:47
+30/04/2019 22:00;techcrunch;2019-04-30T22:00:21;Google;public;;;30/04/2019 22:00
+30/04/2019 21:51;techcrunch;;;;;;30/04/2019 21:51
+30/04/2019 21:30;techcrunch;2019-04-30T21:29:04;Apple;;;;30/04/2019 21:30
+30/04/2019 21:15;techcrunch;2019-04-30T21:11:18;SEC;series a;;set();30/04/2019 21:15
+30/04/2019 20:54;techcrunch;;;;;;30/04/2019 20:54
+30/04/2019 20:47;techcrunch;2019-04-30T20:46:31;Apple;;;;30/04/2019 20:47
+30/04/2019 20:42;techcrunch;;;;;;30/04/2019 20:42
+30/04/2019 20:22;techcrunch;;;;;;30/04/2019 20:22
+30/04/2019 20:08;techcrunch;2019-04-30T20:06:57;Gomila;public;;{'Einstein'};30/04/2019 20:08
+30/04/2019 20:04;techcrunch;2019-04-30T19:23:35;Oculus;;;;30/04/2019 20:04
+30/04/2019 20:03;techcrunch;2019-04-30T17:55:42;Kim Kardashian West;;;;30/04/2019 20:03
+30/04/2019 19:49;techcrunch;;;;;;30/04/2019 19:49
+30/04/2019 19:24;techcrunch;2019-04-30T19:23:01;WhatsApp;;;;30/04/2019 19:24
+30/04/2019 19:03;techcrunch;;;;;;30/04/2019 19:03
+30/04/2019 18:35;techcrunch;;;;;;30/04/2019 18:35
+30/04/2019 18:22;techcrunch;2019-04-30T18:21:01;Amrit;public;;{'ILY Magazine', 'Ramirez'};30/04/2019 18:22
+30/04/2019 17:57;techcrunch;2019-04-30T17:55:42;Kim Kardashian West;;;;30/04/2019 17:57
+30/04/2019 17:56;techcrunch;2019-04-30T17:54:09;NSA;;;;30/04/2019 17:56
+30/04/2019 17:54;techcrunch;2019-04-30T17:44:21;Portal;;;;30/04/2019 17:54
+30/04/2019 17:52;techcrunch;;;;;;30/04/2019 17:52
+30/04/2019 17:35;techcrunch;2019-04-30T17:32:48;Facebook;;;;30/04/2019 17:35
+30/04/2019 17:35;techcrunch;2019-04-30T17:31:07;Mixer;;;;30/04/2019 17:35
+30/04/2019 17:35;techcrunch;2019-04-30T17:30:44;Facebook;;;;30/04/2019 17:35
+30/04/2019 17:35;techcrunch;2019-04-30T17:30:21;Instagram;public;;;30/04/2019 17:35
+30/04/2019 17:34;techcrunch;2019-04-30T17:30:16;Workplace;ipo;;{'Slack', 'Microsoft'};30/04/2019 17:34
+30/04/2019 17:34;techcrunch;2019-04-30T17:30:21;Instagram;public;;;30/04/2019 17:34
+30/04/2019 17:34;techcrunch;2019-04-30T17:30:16;Workplace;ipo;;{'Slack', 'Microsoft'};30/04/2019 17:34
+30/04/2019 17:34;techcrunch;2019-04-30T17:30:13;the Nintendo Switch;;;;30/04/2019 17:34
+30/04/2019 17:32;techcrunch;2019-04-30T17:30:08;Rift;;;;30/04/2019 17:32
+30/04/2019 17:32;techcrunch;2019-04-30T17:30:03;Oculus;;;;30/04/2019 17:32
+30/04/2019 17:31;techcrunch;;;;;;30/04/2019 17:31
+30/04/2019 17:07;techcrunch;2019-04-30T17:06:00;Messenger;series o;;{'Mac', 'Facebook'};30/04/2019 17:07
+30/04/2019 17:06;techcrunch;2019-04-30T17:05:12;Cheddar;series d;160000000.0 $;{'Altice USA', 'cheddar'};30/04/2019 17:06
+30/04/2019 17:05;techcrunch;2019-04-30T16:05:20;NYC;;;;30/04/2019 17:05
+30/04/2019 17:04;techcrunch;2019-04-30T17:02:51;Docker;;;;30/04/2019 17:04
+30/04/2019 17:02;techcrunch;2019-04-30T17:00:17;Docker;;;;30/04/2019 17:02
+30/04/2019 17:01;techcrunch;2019-04-30T17:00:04;Startup Alley;series a;;{'CrunchMatch', 'Startup Battlefield Wild Card'};30/04/2019 17:01
+30/04/2019 16:58;techcrunch;;;;;;30/04/2019 16:58
+30/04/2019 16:53;techcrunch;;;;;;30/04/2019 16:53
+30/04/2019 16:50;techcrunch;2019-04-30T16:49:00;Samsung;public;;{'WeWork', 'Extra Crunch', 'the We Company'};30/04/2019 16:50
+30/04/2019 16:49;techcrunch;;;;;;30/04/2019 16:49
+30/04/2019 16:32;techcrunch;2019-04-30T16:21:51;Hancock;public;;;30/04/2019 16:32
+30/04/2019 16:16;techcrunch;2019-04-27T17:06:54;UC Berkeley;;;;30/04/2019 16:16
+30/04/2019 15:31;techcrunch;2019-04-30T15:30:26;Primary Venture Partners;seed;3500000.0 $;{'Nat Turner', 'Flatiron Health', 'Lerer Hippeau Ventures', 'Neil Blumenthal', 'Dave Gilboa', 'Zach Weinberg', 'Brand Foundry Ventures', 'Warby Parker'};30/04/2019 15:31
+30/04/2019 15:22;techcrunch;2019-04-30T15:20:05;Energizer;;;;30/04/2019 15:22
+30/04/2019 15:03;techcrunch;2019-04-30T15:02:28;Creative Commons;public;;{'Nonprofit organization Creative Commons'};30/04/2019 15:03
+30/04/2019 15:02;techcrunch;2019-04-30T15:00:49;Kesserwani;seed;2500000.0 $;{'Afore Capital'};30/04/2019 15:02
+30/04/2019 14:55;techcrunch;2019-04-30T14:53:51;Fabletics;;;;30/04/2019 14:55
+30/04/2019 14:09;techcrunch;2019-04-30T14:08:05;YouTube;series s;;{'MLB Network', 'Bloomberg'};30/04/2019 14:09

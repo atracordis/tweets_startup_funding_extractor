@@ -1,0 +1,301 @@
+date;user;edited_data
+14/05/2019 23:47;techcrunch;{'series': 'series d', 'raised_funds': '100000000.0 $', 'investors': {'The Wall Street Journal', 'Global Founders Capital', 'Wellington Management', 'Lone Pine Capital', 'Baillie Gifford'}, 'date_scraped': '2019-05-14T23:45:41', 'company_name': 'Rubio'}
+14/05/2019 22:49;techcrunch;{'series': 'public', 'investors': {'Uber'}, 'date_scraped': '2019-05-14T22:48:29', 'company_name': 'CrowdStrike'}
+14/05/2019 22:01;techcrunch;{'series': 'public', 'date_scraped': '2019-05-14T22:01:10', 'company_name': 'Peskin'}
+14/05/2019 22:01;techcrunch;{'series': 'series o', 'date_scraped': '2019-05-14T22:00:24', 'company_name': 'FAA'}
+14/05/2019 21:26;techcrunch;{'date_scraped': '2019-05-14T21:24:57', 'company_name': 'The New York Times'}
+14/05/2019 20:35;techcrunch;
+14/05/2019 20:32;techcrunch;{'date_scraped': '2019-05-14T20:30:17', 'company_name': 'Startup Battlefield'}
+14/05/2019 20:17;techcrunch;{'date_scraped': '2019-05-14T20:16:13', 'company_name': 'Innowatts'}
+14/05/2019 20:03;techcrunch;{'date_scraped': '2019-05-14T20:02:12', 'company_name': 'New Relic'}
+14/05/2019 20:00;techcrunch;
+14/05/2019 19:56;techcrunch;
+14/05/2019 19:35;techcrunch;{'series': 'ipo', 'investors': {'NYSE'}, 'date_scraped': '2019-05-14T19:34:20', 'company_name': 'Uber'}
+14/05/2019 18:53;techcrunch;{'date_scraped': '2019-05-14T18:51:58', 'company_name': 'Beat Games'}
+14/05/2019 18:50;techcrunch;
+14/05/2019 18:31;techcrunch;
+14/05/2019 18:25;techcrunch;{'series': 'series b', 'raised_funds': '18000000.0 $', 'investors': {'TomboyX'}, 'date_scraped': '2019-05-14T18:24:29', 'company_name': 'TomboyX'}
+14/05/2019 18:05;techcrunch;{'series': 'public', 'investors': {'Lerman'}, 'date_scraped': '2019-05-14T17:05:01', 'company_name': 'Yext'}
+14/05/2019 17:52;techcrunch;{'date_scraped': '2019-05-14T17:51:26', 'company_name': 'Moon'}
+14/05/2019 17:43;techcrunch;{'series': 'public', 'investors': {'SpaceX', 'Elon Musk'}, 'date_scraped': '2019-05-14T17:43:16', 'company_name': 'Musk'}
+14/05/2019 17:39;techcrunch;
+14/05/2019 17:36;techcrunch;{'date_scraped': '2019-05-14T17:36:25', 'company_name': 'Group of 7'}
+14/05/2019 17:19;techcrunch;
+14/05/2019 17:05;techcrunch;{'date_scraped': '2019-05-14T16:05:54', 'company_name': 'Phil Weiner'}
+14/05/2019 17:04;techcrunch;
+14/05/2019 17:04;techcrunch;{'date_scraped': '2019-05-14T17:00:56', 'company_name': 'TechCrunch Sessions is heading to San Jose'}
+14/05/2019 17:01;techcrunch;{'date_scraped': '2019-05-14T16:59:43', 'company_name': 'Labs'}
+14/05/2019 17:00;techcrunch;
+14/05/2019 16:36;techcrunch;{'date_scraped': '2019-05-14T16:36:01', 'company_name': 'Google'}
+14/05/2019 16:35;techcrunch;
+14/05/2019 16:33;techcrunch;
+14/05/2019 16:24;techcrunch;{'date_scraped': '2019-05-14T13:39:16', 'company_name': 'Hulu'}
+14/05/2019 16:24;techcrunch;{'series': 'public', 'raised_funds': '750000000.0 $', 'investors': {'Beyond Meat'}, 'date_scraped': '2019-05-14T16:22:48', 'company_name': 'Apple'}
+14/05/2019 16:22;techcrunch;{'date_scraped': '2019-05-14T16:20:52', 'company_name': 'Tyson Foods'}
+14/05/2019 16:08;techcrunch;
+14/05/2019 16:02;techcrunch;{'date_scraped': '2019-05-14T16:00:56', 'company_name': 'Samsung'}
+14/05/2019 16:01;techcrunch;{'date_scraped': '2019-05-14T16:00:23', 'company_name': 'OnePlus’'}
+14/05/2019 16:01;techcrunch;{'date_scraped': '2019-05-14T16:00:23', 'company_name': 'Glaser'}
+14/05/2019 15:56;techcrunch;
+14/05/2019 15:01;techcrunch;
+14/05/2019 14:43;techcrunch;{'date_scraped': '2019-05-14T14:42:17', 'company_name': 'Match'}
+14/05/2019 14:38;techcrunch;{'series': 'public', 'date_scraped': '2019-05-14T14:01:51', 'company_name': 'USDC'}
+14/05/2019 14:02;techcrunch;{'series': 'public', 'investors': {'Travis Scher', 'Digital Currency Group', 'the Digital Currency Group'}, 'date_scraped': '2019-05-14T14:01:21', 'company_name': 'BTC'}
+14/05/2019 14:00;techcrunch;{'series': 'public', 'investors': {'Google Play', 'the Apple App Store'}, 'date_scraped': '2019-05-14T13:59:12', 'company_name': 'Rivet'}
+14/05/2019 13:56;techcrunch;{'date_scraped': '2019-05-14T13:53:33', 'company_name': 'WeChat'}
+14/05/2019 13:31;techcrunch;
+14/05/2019 13:04;techcrunch;{'date_scraped': '2019-05-14T13:01:53', 'company_name': 'Amazon'}
+14/05/2019 13:03;techcrunch;{'series': 'series a', 'raised_funds': '12500000.0 $', 'investors': {'Hailo-8'}, 'date_scraped': '2019-05-14T13:00:47', 'company_name': 'Hailo'}
+14/05/2019 13:02;techcrunch;{'date_scraped': '2019-05-14T13:00:51', 'company_name': 'Adobe'}
+14/05/2019 13:02;techcrunch;
+14/05/2019 13:01;techcrunch;{'date_scraped': '2019-05-14T13:00:08', 'company_name': 'Google'}
+14/05/2019 13:01;techcrunch;{'series': 'series n', 'investors': {'von Furstenberg', 'Yap'}, 'date_scraped': '2019-05-14T13:00:05', 'company_name': 'Apple'}
+14/05/2019 13:00;techcrunch;
+14/05/2019 13:00;techcrunch;{'date_scraped': '2019-05-14T12:58:43', 'company_name': 'LinkedIn'}
+14/05/2019 12:24;techcrunch;{'date_scraped': '2019-05-14T12:23:19', 'company_name': 'Google'}
+14/05/2019 11:30;techcrunch;{'date_scraped': ''}
+14/05/2019 11:27;techcrunch;{'series': 'series a', 'investors': {'Sharma', 'TechCrunch', 'Series A'}, 'date_scraped': '2019-05-14T11:26:18', 'company_name': 'InnoVen'}
+14/05/2019 11:01;techcrunch;
+14/05/2019 10:22;techcrunch;
+14/05/2019 10:02;techcrunch;{'date_scraped': '2019-05-14T10:00:20', 'company_name': 'Amazon'}
+14/05/2019 09:56;techcrunch;{'date_scraped': '2019-05-14T09:55:13', 'company_name': 'Paytm'}
+14/05/2019 09:36;techcrunch;
+14/05/2019 09:14;techcrunch;
+14/05/2019 09:02;techcrunch;
+14/05/2019 08:42;techcrunch;{'series': 'seed', 'investors': {'Golden Gate Ventures’', 'Jungle Ventures'}, 'date_scraped': '2019-05-14T08:41:10', 'company_name': 'Kapur'}
+14/05/2019 08:01;techcrunch;{'series': 'public', 'investors': {'Renaud', 'NYSE', 'Ashoka'}, 'date_scraped': '2019-05-14T08:00:29', 'company_name': 'Aurélie'}
+14/05/2019 08:01;techcrunch;
+14/05/2019 05:45;techcrunch;{'series': 'ipo', 'investors': {'SoftBank Group', 'Vision Fund'}, 'date_scraped': '2019-05-14T05:43:59', 'company_name': 'Uber'}
+14/05/2019 04:04;techcrunch;
+14/05/2019 04:02;techcrunch;
+14/05/2019 02:00;techcrunch;
+14/05/2019 00:59;techcrunch;
+14/05/2019 00:02;techcrunch;
+12/05/2019 23:29;techcrunch;
+12/05/2019 23:01;techcrunch;{'series': 'series o', 'investors': {'ConsenSys'}, 'date_scraped': '2019-05-12T23:00:57', 'company_name': 'Ethereal'}
+12/05/2019 22:44;techcrunch;{'date_scraped': '2019-05-12T22:43:14', 'company_name': 'NOAA'}
+12/05/2019 21:39;techcrunch;
+12/05/2019 20:48;techcrunch;{'date_scraped': '2019-05-12T20:46:44', 'company_name': 'THC'}
+12/05/2019 17:36;techcrunch;
+12/05/2019 12:02;techcrunch;{'date_scraped': '2019-05-12T12:00:19', 'company_name': 'Google'}
+12/05/2019 10:27;techcrunch;
+12/05/2019 02:26;techcrunch;
+10/05/2019 22:03;techcrunch;{'series': 'ipo', 'date_scraped': '2019-05-10T22:02:33', 'company_name': 'Uber'}
+10/05/2019 22:00;techcrunch;{'date_scraped': '2019-05-05T20:09:54', 'company_name': 'Konexio'}
+10/05/2019 21:43;techcrunch;{'date_scraped': '2019-05-10T21:42:26', 'company_name': 'Virgin Galactic'}
+10/05/2019 20:53;techcrunch;{'series': 'public', 'investors': {'District Court', 'Vernon Unsworth'}, 'date_scraped': '2019-05-10T20:52:22', 'company_name': 'Musk'}
+10/05/2019 20:31;techcrunch;
+10/05/2019 20:15;techcrunch;{'series': 'public', 'investors': {'Uber', 'the New York Stock Exchange'}, 'date_scraped': '2019-05-10T20:14:46', 'company_name': 'Uber'}
+10/05/2019 20:07;techcrunch;{'date_scraped': '2019-05-10T20:06:06', 'company_name': 'Tinder Lite'}
+10/05/2019 19:02;techcrunch;{'date_scraped': '2019-05-10T18:06:06', 'company_name': 'Jeff Bezos'}
+10/05/2019 18:54;techcrunch;{'series': 'public', 'investors': {'the New York Stock Exchange'}, 'date_scraped': '2019-05-10T18:52:39', 'company_name': 'Uber'}
+10/05/2019 17:55;techcrunch;
+10/05/2019 17:51;techcrunch;{'date_scraped': '2019-05-10T17:49:37', 'company_name': 'Bobbie'}
+10/05/2019 17:25;techcrunch;{'series': 'public', 'raised_funds': '8100000000.0 $', 'investors': {'the New York Stock Exchange'}, 'date_scraped': '2019-05-10T17:23:47', 'company_name': 'Apple'}
+10/05/2019 17:10;techcrunch;{'series': 'series o', 'date_scraped': '2019-05-10T16:05:55', 'company_name': 'HAI'}
+10/05/2019 16:47;techcrunch;{'series': 'public', 'date_scraped': '2019-05-10T16:45:50', 'company_name': 'Uber'}
+10/05/2019 16:09;techcrunch;{'date_scraped': '2019-05-10T16:07:32', 'company_name': 'fuboTV'}
+10/05/2019 15:54;techcrunch;{'series': 'public', 'raised_funds': '8100000000.0 $', 'investors': {'the New York Stock Exchange'}, 'date_scraped': '2019-05-10T15:52:55', 'company_name': 'Uber'}
+10/05/2019 15:19;techcrunch;{'series': 'public', 'investors': {'Matt Burns', 'Jeff Bezos', 'TechCrunch'}, 'date_scraped': '2019-05-10T15:17:36', 'company_name': 'Blue Origin'}
+10/05/2019 15:09;techcrunch;{'date_scraped': '2019-05-10T15:07:54', 'company_name': 'Amazon'}
+10/05/2019 14:34;techcrunch;
+10/05/2019 14:19;techcrunch;{'series': 'public', 'investors': {'ICO', 'Steve Wood'}, 'date_scraped': '2019-05-10T14:18:06', 'company_name': 'HMRC'}
+10/05/2019 14:07;techcrunch;{'series': 'public', 'investors': {'CCI'}, 'date_scraped': '2019-05-10T14:06:06', 'company_name': 'Google'}
+10/05/2019 13:06;techcrunch;{'date_scraped': '2019-05-10T13:05:50', 'company_name': 'Cook'}
+10/05/2019 12:45;techcrunch;{'series': 'public', 'date_scraped': '', 'company_name': 'Extra Crunch'}
+10/05/2019 12:01;techcrunch;{'series': 'public', 'investors': {'Lyft'}, 'date_scraped': '2019-05-10T12:00:40', 'company_name': 'Uber'}
+10/05/2019 11:51;techcrunch;
+10/05/2019 10:10;techcrunch;{'date_scraped': '2019-05-10T10:09:24', 'company_name': 'Binance'}
+10/05/2019 10:09;techcrunch;{'date_scraped': ''}
+10/05/2019 10:01;techcrunch;{'series': 'seed', 'investors': {'Kindred Capital', 'Tim Westergren', 'Index Ventures', 'Khosla', 'Kristina Simmons', 'Khosla Ventures', 'Hannah Seal', 'Pandora'}, 'date_scraped': '2019-05-10T10:00:45', 'company_name': 'Daye'}
+10/05/2019 09:19;techcrunch;{'series': 'public', 'date_scraped': '2019-05-10T09:18:11', 'company_name': 'King'}
+10/05/2019 05:16;techcrunch;{'series': 'series b', 'raised_funds': '10000000.0 $', 'investors': {'Thai Express', 'Ozi Amanat', 'Singha Ventures', 'Openspace Ventures', 'Uber', 'Impossible Foods', 'K2 Global', 'FoodXervices', 'Genesis Alternative Ventures', 'Cento Ventures', 'Raging Bull', 'Majuven', 'Sass Corp', 'Ivan Lee'}, 'date_scraped': '2019-05-10T04:33:45', 'company_name': 'Sung'}
+10/05/2019 01:00;techcrunch;
+10/05/2019 00:40;techcrunch;{'date_scraped': '2019-05-10T00:39:17', 'company_name': 'Chelsea'}
+08/05/2019 23:41;techcrunch;{'date_scraped': '2019-05-08T23:39:28', 'company_name': 'Google'}
+08/05/2019 23:04;techcrunch;{'series': 'ipo', 'raised_funds': '20000000.0 $', 'investors': {'Meituan-Dianping'}, 'date_scraped': '2019-05-08T23:03:38', 'company_name': 'Uber'}
+08/05/2019 23:00;techcrunch;{'date_scraped': '2019-05-08T22:58:41', 'company_name': 'Google'}
+08/05/2019 22:52;techcrunch;{'date_scraped': '2019-05-08T22:51:11', 'company_name': 'Workhorse'}
+08/05/2019 22:38;techcrunch;{'series': 'public', 'investors': {'Gregoire Henrion', 'Mindie', 'Yolo'}, 'date_scraped': '2019-05-08T22:37:11', 'company_name': 'YOLO'}
+08/05/2019 21:25;techcrunch;
+08/05/2019 21:04;techcrunch;
+08/05/2019 20:37;techcrunch;{'series': 'public', 'investors': {'Spotify'}, 'date_scraped': '2019-05-08T20:35:07', 'company_name': 'Accel'}
+08/05/2019 20:20;techcrunch;{'date_scraped': '2019-05-08T20:19:37', 'company_name': 'Joseph Fink'}
+08/05/2019 20:10;techcrunch;{'series': 'series w', 'date_scraped': '2019-05-08T20:08:30', 'company_name': 'HBO'}
+08/05/2019 20:01;techcrunch;
+08/05/2019 19:58;techcrunch;{'series': 'public', 'investors': {'Google Play Console'}, 'date_scraped': '2019-05-08T19:57:05', 'company_name': 'Google'}
+08/05/2019 19:57;techcrunch;{'series': 'ipo', 'investors': {'TechCrunch', 'Uber', 'Mostafa Maklad'}, 'date_scraped': '2019-05-08T19:05:57', 'company_name': 'Uber'}
+08/05/2019 19:07;techcrunch;{'series': 'ipo', 'investors': {'TechCrunch', 'Uber', 'Mostafa Maklad'}, 'date_scraped': '2019-05-08T19:05:57', 'company_name': 'Uber'}
+08/05/2019 18:49;techcrunch;{'date_scraped': '2019-05-08T18:48:00', 'company_name': 'CTA'}
+08/05/2019 18:17;techcrunch;{'series': 'public', 'investors': {'Sumo Logic', 'Ramin Sayar'}, 'date_scraped': '2019-05-08T18:16:13', 'company_name': 'Google'}
+08/05/2019 17:22;techcrunch;{'date_scraped': '2019-05-08T17:21:08', 'company_name': 'Facebook'}
+08/05/2019 17:04;techcrunch;
+08/05/2019 17:01;techcrunch;{'date_scraped': '2019-05-08T17:00:06', 'company_name': 'UATAG'}
+08/05/2019 17:00;techcrunch;{'date_scraped': '2019-05-08T16:00:58', 'company_name': 'Matt Hartman'}
+08/05/2019 16:57;techcrunch;
+08/05/2019 16:15;techcrunch;
+08/05/2019 16:01;techcrunch;{'date_scraped': '2019-05-08T16:00:09', 'company_name': 'Waymo'}
+08/05/2019 15:15;techcrunch;{'date_scraped': '2019-05-08T15:13:38', 'company_name': 'Pandora'}
+08/05/2019 15:02;techcrunch;{'date_scraped': '2019-05-08T15:00:42', 'company_name': 'RTR'}
+08/05/2019 14:44;techcrunch;{'series': 'public', 'date_scraped': '', 'company_name': 'Extra Crunch'}
+08/05/2019 14:34;techcrunch;{'date_scraped': '2019-05-08T14:32:29', 'company_name': 'Amazon'}
+08/05/2019 14:17;techcrunch;
+08/05/2019 14:11;techcrunch;
+08/05/2019 14:01;techcrunch;{'series': 'public', 'investors': {'Cloudera', 'Singh'}, 'date_scraped': '2019-05-08T14:00:10', 'company_name': 'Docker'}
+08/05/2019 13:24;techcrunch;{'date_scraped': '2019-05-08T13:22:39', 'company_name': 'Tariffs'}
+08/05/2019 13:09;techcrunch;{'date_scraped': ''}
+08/05/2019 13:04;techcrunch;
+08/05/2019 13:02;techcrunch;{'date_scraped': '2019-05-08T13:00:24', 'company_name': 'Bird'}
+08/05/2019 13:00;techcrunch;
+08/05/2019 12:23;techcrunch;{'series': 'seed', 'date_scraped': '2019-05-08T12:22:35', 'company_name': 'Kargo'}
+08/05/2019 12:01;techcrunch;{'series': 'series d', 'investors': {'Jupyter', 'KubeFlow'}, 'date_scraped': '2019-05-08T12:00:34', 'company_name': 'Iguazio'}
+08/05/2019 09:49;techcrunch;{'series': 'public', 'investors': {'Weibo', 'State Administration of Press and Publication'}, 'date_scraped': '2019-05-08T09:48:16', 'company_name': 'PUBG'}
+08/05/2019 08:01;techcrunch;{'series': 'series a', 'raised_funds': '12000000.0 $', 'investors': set(), 'date_scraped': '2019-05-08T08:00:53', 'company_name': 'HeyJobs'}
+08/05/2019 05:14;techcrunch;
+08/05/2019 03:47;techcrunch;{'series': 'series b', 'raised_funds': '8000000.0 $', 'investors': set(), 'date_scraped': '2019-05-08T03:46:25', 'company_name': 'CollegeDekho'}
+08/05/2019 01:13;techcrunch;
+08/05/2019 00:49;techcrunch;
+06/05/2019 17:01;techcrunch;
+06/05/2019 16:51;techcrunch;{'series': 'public', 'date_scraped': '2019-05-06T16:50:36', 'company_name': 'Apple'}
+06/05/2019 16:44;techcrunch;
+06/05/2019 15:41;techcrunch;{'series': 'public', 'investors': set(), 'date_scraped': '2019-05-06T15:39:42', 'company_name': 'ElectionGuard'}
+06/05/2019 15:35;techcrunch;
+06/05/2019 15:35;techcrunch;
+06/05/2019 15:34;techcrunch;{'date_scraped': '2019-05-06T15:30:54', 'company_name': 'Microsoft'}
+06/05/2019 15:34;techcrunch;
+06/05/2019 15:33;techcrunch;
+06/05/2019 15:33;techcrunch;{'series': 'public', 'investors': {'Azure Functions', 'Azure Kubernetes Service', 'Red Hat', 'OpenShift'}, 'date_scraped': '2019-05-06T15:30:22', 'company_name': 'Microsoft'}
+06/05/2019 15:33;techcrunch;
+06/05/2019 15:32;techcrunch;{'date_scraped': '2019-05-06T15:30:02', 'company_name': 'Microsoft'}
+06/05/2019 15:32;techcrunch;
+06/05/2019 15:31;techcrunch;
+06/05/2019 15:31;techcrunch;{'date_scraped': '2019-05-06T15:30:27', 'company_name': 'Microsoft'}
+06/05/2019 15:31;techcrunch;{'date_scraped': '2019-05-06T15:30:14', 'company_name': 'Microsoft'}
+06/05/2019 15:30;techcrunch;
+06/05/2019 15:16;techcrunch;{'date_scraped': '2019-05-06T14:30:18', 'company_name': 'Microsoft'}
+06/05/2019 15:02;techcrunch;{'series': 'series e', 'raised_funds': '300000000.0 $', 'investors': {'Andreessen Horowitz', 'TechCrunch', 'Marc Andreessen'}, 'date_scraped': '2019-05-06T15:00:30', 'company_name': 'Carta'}
+06/05/2019 14:31;techcrunch;{'date_scraped': '2019-05-06T14:30:18', 'company_name': 'Microsoft'}
+06/05/2019 14:00;techcrunch;{'date_scraped': ''}
+06/05/2019 13:01;techcrunch;{'date_scraped': '2019-05-06T13:00:02', 'company_name': 'Dropbox'}
+06/05/2019 12:44;techcrunch;{'series': 'public', 'date_scraped': '', 'company_name': 'Extra Crunch'}
+06/05/2019 11:59;techcrunch;{'series': 'series f', 'raised_funds': '1000000000.0 $', 'investors': {'CDC Group', 'TechCrunch', 'Alibaba', 'Vipul Parekh', 'Mirae Asset-Naver Asia Growth Fund'}, 'date_scraped': '2019-05-06T11:57:07', 'company_name': 'BigBasket'}
+06/05/2019 11:01;techcrunch;
+06/05/2019 10:02;techcrunch;{'date_scraped': '2019-05-06T10:00:28', 'company_name': 'NBCUniversal'}
+06/05/2019 08:28;techcrunch;
+06/05/2019 08:01;techcrunch;{'series': 'series a', 'investors': set(), 'date_scraped': '2019-05-06T08:00:33', 'company_name': 'Startup Alley'}
+06/05/2019 07:34;techcrunch;{'series': 'series o', 'investors': {'Android', 'Facebook', 'Google'}, 'date_scraped': '2019-05-06T07:32:33', 'company_name': 'Apple'}
+06/05/2019 04:13;techcrunch;
+06/05/2019 02:05;techcrunch;
+06/05/2019 00:44;techcrunch;{'series': 'public', 'date_scraped': '', 'company_name': 'Extra Crunch'}
+04/05/2019 16:47;techcrunch;
+04/05/2019 16:25;techcrunch;
+04/05/2019 16:02;techcrunch;{'date_scraped': '2019-05-04T16:00:39', 'company_name': 'Apple'}
+04/05/2019 14:08;techcrunch;
+04/05/2019 12:17;techcrunch;{'date_scraped': '2019-05-04T12:16:46', 'company_name': 'Jones'}
+04/05/2019 12:02;techcrunch;{'series': 'public', 'investors': {'SEC', 'Danny Crichton', 'The We Company'}, 'date_scraped': '2019-05-04T12:00:48', 'company_name': 'TechCrunch'}
+04/05/2019 11:00;techcrunch;{'date_scraped': '2019-05-04T10:58:56', 'company_name': 'Uber'}
+04/05/2019 07:01;techcrunch;{'date_scraped': '2019-05-04T07:00:14', 'company_name': 'Android'}
+04/05/2019 04:29;techcrunch;{'date_scraped': '2019-05-04T04:28:12', 'company_name': 'Srinivasan'}
+04/05/2019 03:54;techcrunch;{'date_scraped': '2019-05-04T03:53:38', 'company_name': 'Mozilla'}
+02/05/2019 23:20;techcrunch;
+02/05/2019 23:16;techcrunch;
+02/05/2019 22:04;techcrunch;{'date_scraped': '2019-05-02T22:02:38', 'company_name': 'Activision Blizzard'}
+02/05/2019 21:08;techcrunch;
+02/05/2019 21:06;techcrunch;{'date_scraped': '2019-05-02T21:05:57', 'company_name': 'Microsoft'}
+02/05/2019 21:04;techcrunch;{'date_scraped': '2019-05-02T21:00:46', 'company_name': 'Microsoft'}
+02/05/2019 21:04;techcrunch;{'date_scraped': '2019-05-02T21:00:43', 'company_name': 'Microsoft'}
+02/05/2019 21:04;techcrunch;{'date_scraped': '2019-05-02T21:00:34', 'company_name': 'Microsoft'}
+02/05/2019 21:04;techcrunch;{'series': 'public', 'investors': {'Azure DevOps', 'Visual Studio Code', 'Azure Blockchain Service'}, 'date_scraped': '2019-05-02T21:00:34', 'company_name': 'Microsoft'}
+02/05/2019 21:03;techcrunch;{'date_scraped': '2019-05-02T21:00:21', 'company_name': 'Microsoft'}
+02/05/2019 21:02;techcrunch;{'series': 'series d', 'investors': {'Database Edge'}, 'date_scraped': '2019-05-02T21:00:02', 'company_name': 'SQL'}
+02/05/2019 20:26;techcrunch;{'series': 'public', 'investors': {'Verge'}, 'date_scraped': '2019-05-02T20:23:56', 'company_name': 'Alexa'}
+02/05/2019 20:23;techcrunch;{'date_scraped': '2019-05-02T20:21:04', 'company_name': 'Tumblr'}
+02/05/2019 20:22;techcrunch;{'date_scraped': '2019-05-02T20:21:01', 'company_name': 'Burke'}
+02/05/2019 20:00;techcrunch;{'series': 'public', 'date_scraped': '2019-05-02T20:00:04', 'company_name': 'Google'}
+02/05/2019 19:57;techcrunch;
+02/05/2019 19:43;techcrunch;{'series': 'public', 'date_scraped': '', 'company_name': 'Extra Crunch'}
+02/05/2019 19:15;techcrunch;{'series': 'series o', 'investors': {'Frederic', 'Josh'}, 'date_scraped': '2019-05-02T18:17:39', 'company_name': 'Facebook'}
+02/05/2019 18:52;techcrunch;{'date_scraped': '2019-05-02T18:50:20', 'company_name': 'Facebook'}
+02/05/2019 18:51;techcrunch;
+02/05/2019 18:13;techcrunch;
+02/05/2019 17:25;techcrunch;{'date_scraped': '2019-05-02T17:25:03', 'company_name': 'SpaceX'}
+02/05/2019 17:25;techcrunch;{'series': 'public', 'date_scraped': '2019-05-02T17:23:57', 'company_name': 'Beyond Meat'}
+02/05/2019 17:23;techcrunch;{'date_scraped': '2019-05-02T16:05:19', 'company_name': 'EMEA'}
+02/05/2019 17:01;techcrunch;
+02/05/2019 17:01;techcrunch;
+02/05/2019 16:30;techcrunch;{'series': 'public', 'date_scraped': '2019-05-02T16:29:26', 'company_name': 'Facebook'}
+02/05/2019 16:00;techcrunch;
+02/05/2019 15:01;techcrunch;{'series': 'public', 'investors': set(), 'date_scraped': '2019-05-02T15:00:50', 'company_name': 'Uber'}
+02/05/2019 15:00;techcrunch;{'date_scraped': '2019-05-02T14:58:59', 'company_name': 'Carnegie Mellon'}
+02/05/2019 14:32;techcrunch;{'date_scraped': '2019-05-02T14:32:12', 'company_name': 'Google'}
+02/05/2019 14:31;techcrunch;{'series': 'series o', 'investors': set(), 'date_scraped': '2019-05-02T14:30:28', 'company_name': 'Invert Robotics'}
+02/05/2019 14:26;techcrunch;{'date_scraped': '2019-05-02T14:13:53', 'company_name': 'Match'}
+02/05/2019 14:25;techcrunch;
+02/05/2019 14:00;techcrunch;
+02/05/2019 13:01;techcrunch;{'series': 'public', 'investors': {'Blue Apron', 'Munchery'}, 'date_scraped': '2019-05-02T13:00:42', 'company_name': 'Mosaic'}
+02/05/2019 12:35;techcrunch;{'date_scraped': '2019-05-02T12:33:49', 'company_name': 'Human Rights Watch'}
+02/05/2019 12:06;techcrunch;
+02/05/2019 12:02;techcrunch;
+02/05/2019 11:59;techcrunch;{'date_scraped': '2019-05-02T11:58:07', 'company_name': 'Tesla'}
+02/05/2019 11:54;techcrunch;{'date_scraped': '2019-05-02T11:53:35', 'company_name': 'Quantcast'}
+02/05/2019 10:32;techcrunch;{'date_scraped': '2019-05-02T10:30:32', 'company_name': 'Accomplice'}
+02/05/2019 09:59;techcrunch;{'series': 'series b', 'raised_funds': '30000000.0 $', 'investors': {'Rider Global', 'Maersk Growth', 'A.P. Moller-Maersk'}, 'date_scraped': '2019-05-02T09:57:55', 'company_name': 'FreightHub'}
+02/05/2019 09:01;techcrunch;{'date_scraped': '2019-05-02T09:00:48', 'company_name': 'TechCrunch'}
+02/05/2019 09:00;techcrunch;{'date_scraped': '2019-05-02T09:00:11', 'company_name': 'Plum'}
+02/05/2019 08:46;techcrunch;{'series': 'public', 'raised_funds': '200000000.0 $', 'investors': set(), 'date_scraped': '2019-05-02T08:45:19', 'company_name': 'Jumia'}
+02/05/2019 08:01;techcrunch;{'date_scraped': '2019-05-02T08:00:53', 'company_name': 'Disrupt Berlin'}
+02/05/2019 05:51;techcrunch;{'date_scraped': '2019-05-02T05:49:46', 'company_name': 'LG Mobile'}
+02/05/2019 04:02;techcrunch;{'series': 'public', 'investors': {'Johan Billgren'}, 'date_scraped': '2019-05-02T04:00:58', 'company_name': 'Acast'}
+30/04/2019 23:32;techcrunch;
+30/04/2019 23:08;techcrunch;
+30/04/2019 23:00;techcrunch;{'date_scraped': '2019-04-30T22:58:59', 'company_name': 'Rappi'}
+30/04/2019 22:47;techcrunch;{'series': 'public', 'date_scraped': '2019-04-30T22:45:45', 'company_name': 'Wojcicki'}
+30/04/2019 22:00;techcrunch;{'series': 'public', 'date_scraped': '2019-04-30T22:00:21', 'company_name': 'Google'}
+30/04/2019 21:51;techcrunch;
+30/04/2019 21:30;techcrunch;{'date_scraped': '2019-04-30T21:29:04', 'company_name': 'Apple'}
+30/04/2019 21:15;techcrunch;{'series': 'series a', 'investors': set(), 'date_scraped': '2019-04-30T21:11:18', 'company_name': 'SEC'}
+30/04/2019 20:54;techcrunch;
+30/04/2019 20:47;techcrunch;{'date_scraped': '2019-04-30T20:46:31', 'company_name': 'Apple'}
+30/04/2019 20:42;techcrunch;
+30/04/2019 20:22;techcrunch;
+30/04/2019 20:08;techcrunch;{'series': 'public', 'investors': {'Einstein'}, 'date_scraped': '2019-04-30T20:06:57', 'company_name': 'Gomila'}
+30/04/2019 20:04;techcrunch;{'date_scraped': '2019-04-30T19:23:35', 'company_name': 'Oculus'}
+30/04/2019 20:03;techcrunch;{'date_scraped': '2019-04-30T17:55:42', 'company_name': 'Kim Kardashian West'}
+30/04/2019 19:49;techcrunch;
+30/04/2019 19:24;techcrunch;{'date_scraped': '2019-04-30T19:23:01', 'company_name': 'WhatsApp'}
+30/04/2019 19:03;techcrunch;
+30/04/2019 18:35;techcrunch;
+30/04/2019 18:22;techcrunch;{'series': 'public', 'investors': {'ILY Magazine', 'Ramirez'}, 'date_scraped': '2019-04-30T18:21:01', 'company_name': 'Amrit'}
+30/04/2019 17:57;techcrunch;{'date_scraped': '2019-04-30T17:55:42', 'company_name': 'Kim Kardashian West'}
+30/04/2019 17:56;techcrunch;{'date_scraped': '2019-04-30T17:54:09', 'company_name': 'NSA'}
+30/04/2019 17:54;techcrunch;{'date_scraped': '2019-04-30T17:44:21', 'company_name': 'Portal'}
+30/04/2019 17:52;techcrunch;
+30/04/2019 17:35;techcrunch;{'date_scraped': '2019-04-30T17:32:48', 'company_name': 'Facebook'}
+30/04/2019 17:35;techcrunch;{'date_scraped': '2019-04-30T17:31:07', 'company_name': 'Mixer'}
+30/04/2019 17:35;techcrunch;{'date_scraped': '2019-04-30T17:30:44', 'company_name': 'Facebook'}
+30/04/2019 17:35;techcrunch;{'series': 'public', 'date_scraped': '2019-04-30T17:30:21', 'company_name': 'Instagram'}
+30/04/2019 17:34;techcrunch;{'series': 'ipo', 'investors': {'Slack', 'Microsoft'}, 'date_scraped': '2019-04-30T17:30:16', 'company_name': 'Workplace'}
+30/04/2019 17:34;techcrunch;{'series': 'public', 'date_scraped': '2019-04-30T17:30:21', 'company_name': 'Instagram'}
+30/04/2019 17:34;techcrunch;{'series': 'ipo', 'investors': {'Slack', 'Microsoft'}, 'date_scraped': '2019-04-30T17:30:16', 'company_name': 'Workplace'}
+30/04/2019 17:34;techcrunch;{'date_scraped': '2019-04-30T17:30:13', 'company_name': 'the Nintendo Switch'}
+30/04/2019 17:32;techcrunch;{'date_scraped': '2019-04-30T17:30:08', 'company_name': 'Rift'}
+30/04/2019 17:32;techcrunch;{'date_scraped': '2019-04-30T17:30:03', 'company_name': 'Oculus'}
+30/04/2019 17:31;techcrunch;
+30/04/2019 17:07;techcrunch;{'series': 'series o', 'investors': {'Mac', 'Facebook'}, 'date_scraped': '2019-04-30T17:06:00', 'company_name': 'Messenger'}
+30/04/2019 17:06;techcrunch;{'series': 'series d', 'raised_funds': '160000000.0 $', 'investors': {'Altice USA', 'cheddar'}, 'date_scraped': '2019-04-30T17:05:12', 'company_name': 'Cheddar'}
+30/04/2019 17:05;techcrunch;{'date_scraped': '2019-04-30T16:05:20', 'company_name': 'NYC'}
+30/04/2019 17:04;techcrunch;{'date_scraped': '2019-04-30T17:02:51', 'company_name': 'Docker'}
+30/04/2019 17:02;techcrunch;{'date_scraped': '2019-04-30T17:00:17', 'company_name': 'Docker'}
+30/04/2019 17:01;techcrunch;{'series': 'series a', 'investors': {'CrunchMatch', 'Startup Battlefield Wild Card'}, 'date_scraped': '2019-04-30T17:00:04', 'company_name': 'Startup Alley'}
+30/04/2019 16:58;techcrunch;
+30/04/2019 16:53;techcrunch;
+30/04/2019 16:50;techcrunch;{'series': 'public', 'investors': {'WeWork', 'Extra Crunch', 'the We Company'}, 'date_scraped': '2019-04-30T16:49:00', 'company_name': 'Samsung'}
+30/04/2019 16:49;techcrunch;
+30/04/2019 16:32;techcrunch;{'series': 'public', 'date_scraped': '2019-04-30T16:21:51', 'company_name': 'Hancock'}
+30/04/2019 16:16;techcrunch;{'date_scraped': '2019-04-27T17:06:54', 'company_name': 'UC Berkeley'}
+30/04/2019 15:31;techcrunch;{'series': 'seed', 'raised_funds': '3500000.0 $', 'investors': {'Nat Turner', 'Flatiron Health', 'Lerer Hippeau Ventures', 'Neil Blumenthal', 'Dave Gilboa', 'Zach Weinberg', 'Brand Foundry Ventures', 'Warby Parker'}, 'date_scraped': '2019-04-30T15:30:26', 'company_name': 'Primary Venture Partners'}
+30/04/2019 15:22;techcrunch;{'date_scraped': '2019-04-30T15:20:05', 'company_name': 'Energizer'}
+30/04/2019 15:03;techcrunch;{'series': 'public', 'investors': {'Nonprofit organization Creative Commons'}, 'date_scraped': '2019-04-30T15:02:28', 'company_name': 'Creative Commons'}
+30/04/2019 15:02;techcrunch;{'series': 'seed', 'raised_funds': '2500000.0 $', 'investors': {'Afore Capital'}, 'date_scraped': '2019-04-30T15:00:49', 'company_name': 'Kesserwani'}
+30/04/2019 14:55;techcrunch;{'date_scraped': '2019-04-30T14:53:51', 'company_name': 'Fabletics'}
+30/04/2019 14:09;techcrunch;{'series': 'series s', 'investors': {'MLB Network', 'Bloomberg'}, 'date_scraped': '2019-04-30T14:08:05', 'company_name': 'YouTube'}
