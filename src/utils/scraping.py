@@ -10,6 +10,13 @@ driver.find_element_by_name('agree').click()
 
 
 def tweet_acquisition(row):
+    """
+    goes to twitter to rescrape tweets based on
+    user, the first six words of a tweet
+    and the tweet's date
+    :param row:
+    :return:
+    """
     username = row["user"]
     text_query = " ".join(row["tweet"].split()[0:6])
     str_date_since = row["date"][0:10]
@@ -31,6 +38,12 @@ def tweet_acquisition(row):
 
 
 def extract_body(str_url):
+    """
+    goes to url and scrapes article content, title and date from it
+    designed to work on tech crunch. Could be generalized
+    :param str_url:
+    :return:
+    """
     if str_url == "":
         return ""
     try:
@@ -54,6 +67,14 @@ def extract_body(str_url):
 
 
 def add_days(str_date, days=1, date_format="%Y-%m-%d"):
+    """
+    silly utils function to add a number of days to a date
+    in a string format
+    :param str_date:
+    :param days:
+    :param date_format:
+    :return:
+    """
     date = datetime.strptime(str_date, date_format)
     modified_date = date + timedelta(days=days)
     return datetime.strftime(modified_date, date_format)

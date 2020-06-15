@@ -3,6 +3,12 @@ from resources.const import *
 
 
 def edit_metadata(parsed_metadata):
+    """
+    goes through parsed_data dict and tries
+    to get readable metadata
+    :param parsed_metadata:
+    :return:
+    """
     if parsed_metadata == "":
         return ""
     edited_metadata = {}
