@@ -1,0 +1,8 @@
+setuptools
+pandas
+numpy
+GetOldTweets3
+regex
+bs4
+selenium
+spacy
